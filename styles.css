@@ -2,11 +2,6 @@ body {
     background-color: rgb(74, 85, 47);
 }
 p {
-    img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
     color: rgb(202, 202, 202);
     text-align: center;
     font-size: 60px;
